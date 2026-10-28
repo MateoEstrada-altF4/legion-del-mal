@@ -1,4 +1,5 @@
-# 🦹‍♂️ La Legión del Mal--POR MATEO ESTRADA 2026
+# 🦹‍♂️ La Legión del Mal- desde local
+Grupo dedicado a aprende Git y GitHub
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
