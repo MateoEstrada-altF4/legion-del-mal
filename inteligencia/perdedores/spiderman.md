@@ -12,3 +12,7 @@ se llama Peter Parker
 es un niño de 23 años
 Tia may
 Mary Jane
+## Peliculas
+Estas son las peliculas mas vistas por la gente.
+-Homecoming
+-No Way Home
