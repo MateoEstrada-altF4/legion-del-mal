@@ -2,7 +2,7 @@
 name: Template for bugs of sofware
 about: Create a report to help us improve
 title: ''
-labels: bug, enhancement
+labels: bug, enhancement, Mejora de Software
 assignees: ''
 
 ---
