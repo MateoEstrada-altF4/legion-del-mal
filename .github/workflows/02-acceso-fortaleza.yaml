@@ -1,0 +1,19 @@
+name: 🦾 Acceso a la Fortaleza
+
+on: push
+
+jobs: 
+  acceso-a-la-fortaleza:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Acceso a la fortaleza
+        run: |
+          echo "Soy Lex Luthor, el mejor agente de reclutamiento del mundo"
+          echo ""
+          echo "Buscar los archivos de la Legion"
+          ls-la
+          echo ""
+          echo "❎ Acceso denegado a la fortaleza"
