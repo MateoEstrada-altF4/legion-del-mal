@@ -1,6 +1,7 @@
 name: Reclutamientoi de agente
 
-on: workflow_dispatch
+on: 
+  workflow_dispatch:
 
 jobs: 
   reporte-de-reclutamiento:
