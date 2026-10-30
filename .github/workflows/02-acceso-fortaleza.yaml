@@ -10,7 +10,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Acceso a la fortaleza
-        run: |
+        run:  |
           echo "Soy Lex Luthor, el mejor agente de reclutamiento del mundo"
           echo ""
           echo "Buscar los archivos de la Legion"
