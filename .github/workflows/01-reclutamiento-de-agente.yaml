@@ -1,0 +1,15 @@
+name: Reclutamientoi de agente
+
+on: push
+
+jobs: 
+  reporte-de-reclutamiento:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: El agente de reclutamiento
+        run: echo "Soy Lex  Luthor, el mejor agente de reclutamiento del mundo"
+          
+          
